@@ -19,7 +19,7 @@
   <a href="https://www.linkedin.com/in/tanishka-singh-8b1892258/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="40" width="40" />
   </a>
-  <a href="https://instagram.com/tanishka.singh_" target="_blank">
+  <a href="https://instagram.com/tanishka.singh._" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" height="40" width="40" />
   </a>
   <a href="https://www.codechef.com/users/tanishka5singh" target="_blank">
